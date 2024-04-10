@@ -1,0 +1,23 @@
+{
+  "name": "hallbooking",
+  "version": "1.0.0",
+  "description": "hll booking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobi-11/node-hallbooking.git"
+  },
+  "author": "Shobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shobi-11/node-hallbooking/issues"
+  },
+  "homepage": "https://github.com/Shobi-11/node-hallbooking#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
